@@ -1,0 +1,25 @@
+{
+    "name": "Blue Moon",
+    "author": "Your Name",
+    "description": "A cool, calming theme with blue accents and a purple background.",
+    "colors": {
+        "backgroundPrimary": "#552583",  // Deep purple
+        "backgroundSecondary": "#401C62",  // Slightly darker purple
+        "backgroundTertiary": "#301548",  // Darker still for subtle contrast
+        "backgroundAccent": "#200E30",   // Very dark for emphasis
+        "modalBackground": "#552583",    
+        "serverBackground": "#401C62",
+        "channelBackground": "#301548",
+        "textNormal": "#FFFFFF",          // White for readability
+        "textMuted": "#CCCCCC",          // Light gray
+        "textLink": "#3399FF",          // Blue link color
+        "interactiveNormal": "#3399FF",  // Blue for buttons/interactive
+        "interactiveHover": "#66CCFF",   // Lighter blue on hover
+        "interactiveActive": "#0066CC",  // Darker blue when active
+        "interactiveMuted": "#336699",   // Muted blue for less important items
+        "brandExperiment": "#3399FF",    // Accent color for highlights
+        "mentionBadge": "#3399FF",       // Blue mention badge
+        "mentionHighlight": "#1A5276"   // Darker blue for mention highlight
+    },
+    "borderRadius": 5
+}
